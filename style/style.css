@@ -1,0 +1,183 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: black;
+
+}
+
+.list{
+	margin: 0 auto;
+	width: 960px;
+    height: 883px;
+    background: url(../images/fon.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.content{
+	margin: 0 70px;
+}
+
+.logo{
+	padding-top: 53px;
+	height: 152px;
+	width: 265px;
+	display: inline-block;
+	background: url(../images/palm.png) 100% 100% no-repeat,
+	            url(../images/logo.png) 50% 78% no-repeat;
+}
+
+.slogan{
+	margin-top: 122px;
+	text-align: center;    
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: 400;    
+}
+
+.contacts{
+	margin-left: 447px;
+	display: inline-block;
+
+}
+.contactus{
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.phone{
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 10px;
+}
+
+.india{
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	background: url(../images/ramka.png)  -1px -2px no-repeat,
+	            url(../images/india.png)  50% 15% no-repeat;	            	
+}
+
+.Ind{
+	margin-top: 185px;
+	display: block;    
+	text-align: center;	
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Nepal{	
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+	background: url(../images/ramka.png) -1px -2px no-repeat,
+	            url(../images/nepal.png)  50% 15% no-repeat;	
+}
+
+.Nep{
+	margin-top: 185px;
+	text-align: center;	
+	color: #e6e6e6;	
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Tibet{
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;	
+	background: url(../images/ramka.png) -1px -2px no-repeat,
+	            url(../images/tibet.png)  50% 15% no-repeat;
+	
+	
+}
+
+.Tib{
+	margin-top: 185px;
+	text-align: center;	
+	color: #e6e6e6;	
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Bhutan{
+    margin-top: 50px;
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	background: url(../images/ramka.png)  -1px -2px no-repeat,
+	            url(../images/bhutan.png)  50% 15% no-repeat;	            	
+}
+
+.Bhu{
+	margin-top: 185px;
+	display: block;    
+	text-align: center;	
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.SriLanka{
+	margin-top: 50px;	
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+	background: url(../images/ramka.png) -1px -2px no-repeat,
+	            url(../images/srilanka.png)  50% 15% no-repeat;	
+}
+
+.Sr{
+	margin-top: 185px;
+	text-align: center;	
+	color: #e6e6e6;	
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.Maldives{
+	margin-top: 50px;
+	width: 268px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;	
+	background: url(../images/ramka.png) -1px -2px no-repeat,
+	            url(../images/maldives.png)  50% 15% no-repeat;	
+	
+}
+
+.Mal{
+	margin-top: 185px;
+	text-align: center;	
+	color: #e6e6e6;	
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.copyright{
+	margin-top: 181px;
+	text-align: center;
+	color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: 400;
+}
